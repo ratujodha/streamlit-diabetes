@@ -3,3 +3,4 @@ pandas==1.5.3
 Streamlit
 scikit-learn
 pip==23.0.1
+pickle
